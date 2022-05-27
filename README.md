@@ -4,6 +4,10 @@ I've taken these images in May 2022 in northern Portugal.
 
 ![montage](montage.jpg)
 
+More about these images here:
+
+https://saar.substack.com/a-spring-day-of-patterns
+
 ## License
 
 The images in this repository are provided under the provisions of
